@@ -1,0 +1,32 @@
+
+.app__header{
+    background-color: var(--color-black);
+}
+
+.app__header-h1{
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 70px;
+    font-size: 3.9rem;
+    margin-left: 4rem;
+    margin-top: -15rem;
+    margin-bottom: 15rem;
+}
+
+.app__wrapper_info p{
+    margin-left: 4rem;
+    margin-top: -14rem;
+    margin-bottom: 15rem;
+    color:white;
+}
+.app__wrapper_info button{
+    margin-left: 4rem;
+    margin-top: -10rem;
+    margin-bottom: 15rem;
+}
+.app__wrapper_img img{
+    width: 80%;
+    margin-bottom: 15rem;
+}
